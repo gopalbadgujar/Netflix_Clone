@@ -1,2 +1,1 @@
-# Netflix_Clone
-My Git Repo with VS Code
+# Netflix_Home_Page
